@@ -1,10 +1,5 @@
 # api-projet-collaboratif-CDA22
 <a name="readme-top"></a>
-<!-- PROJECT LOGO -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -112,3 +107,9 @@ Alexandre - alexandre.boyere@viacesi.fr
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SOURCES -->
+## Sources
+
+Project Link: [https://github.com/Projet-Collaboratif-CDA22](https://github.com/Projet-Collaboratif-CDA22)
+Notion: [https://notes-cube-cesi2021.notion.site/Projet-Collaboratif-d21275605a67429b9b0980300c8f061e](https://notes-cube-cesi2021.notion.site/Projet-Collaboratif-d21275605a67429b9b0980300c8f061e)
