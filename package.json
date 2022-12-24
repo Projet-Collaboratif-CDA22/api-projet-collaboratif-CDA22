@@ -17,7 +17,7 @@
     "mongoose": "^6.8.1"
   },
   "scripts": {
-    "build": "tsc",
+    "build": "rm -rf build/* && tsc",
     "dev": "npm run build && nodemon build/server.js"
   },
   "keywords": [],

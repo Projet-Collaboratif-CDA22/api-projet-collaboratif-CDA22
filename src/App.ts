@@ -5,11 +5,14 @@ const dotenv = require('dotenv');
 const app = express();
 const mongoose = require('mongoose');
 
+const postRoutes = require('./routes/postRoutes');
+
+
 dotenv.config();
 
 app.use(express.json());
 
-
+mongoose.set('strictQuery', false);
 mongoose.connect(`${process.env.MONGO_URL}`,
     { useNewUrlParser: true,
         useUnifiedTopology: true })
@@ -27,8 +30,7 @@ app.use((req:Request, res:Response, next:NextFunction) => {
 /*
 Routes
 */
-const todoRoutes = require('./routes/todo');
-app.use('/todos', todoRoutes);
+app.use('/posts', postRoutes);
 
 
 module.exports = app;

@@ -12,7 +12,7 @@
   }, "include": [
   "src/*.ts",
   "src/controller/*.ts",
-  "src/model/*.ts",
+  "src/models/*.ts",
   "src/routes/*.ts"
 ]
 }
