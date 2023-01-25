@@ -112,3 +112,5 @@ Alexandre - alexandre.boyere@viacesi.fr
 Project Link: [https://github.com/Projet-Collaboratif-CDA22](https://github.com/Projet-Collaboratif-CDA22)
 <br/>
 Notion: [https://notes-cube-cesi2021.notion.site/Projet-Collaboratif-d21275605a67429b9b0980300c8f061e](https://notes-cube-cesi2021.notion.site/Projet-Collaboratif-d21275605a67429b9b0980300c8f061e)
+<br/>
+OneNote: [https://viacesifr.sharepoint.com/:o:/s/TEAMS-CDA-fil_rouge/Eh1ksckrGgZAu-T1Q8ZjlosBkYyqGtYXqEXZud25ViW8Kw?e=T0pq9P]
