@@ -1,12 +1,14 @@
 {
   "dependencies": {
     "@strapi/plugin-graphql": "^4.0.0",
+    "@strapi/plugin-i18n": "4.9.0",
+    "@strapi/plugin-users-permissions": "4.9.0",
+    "@strapi/strapi": "4.9.0",
+    "better-sqlite3": "8.0.1",
     "lodash.set": "^4.3.2",
     "mime-types": "^2.1.27",
-    "@strapi/strapi": "4.9.0",
-    "@strapi/plugin-users-permissions": "4.9.0",
-    "@strapi/plugin-i18n": "4.9.0",
-    "better-sqlite3": "8.0.1"
+    "strapi-plugin-comments": "^2.2.9",
+    "strapi-plugin-entity-relationship-chart": "^4.1.0"
   },
   "name": "api-cubes",
   "private": true,
@@ -18,7 +20,6 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
   "author": {
     "name": "A Strapi developer"
   },
