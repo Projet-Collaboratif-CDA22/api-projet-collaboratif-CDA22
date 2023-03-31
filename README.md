@@ -31,6 +31,13 @@ npm run build
 # or
 yarn build
 ```
+## :sos: `Errors`
+
+### `Error on server launching`
+
+> *:no_entry:  error: Middleware "strapi::session" App keys are required*
+
+Copy file **.env.example** in the root folder and change its name to **.env**
 
 ## ⚙️ Deployment
 
